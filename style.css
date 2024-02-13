@@ -1,0 +1,62 @@
+body{
+  height: 100vh;
+  background-color: #FFF6F6; 
+}
+
+.bg-deeptranspink{ 
+  background-color: #F875AA; 
+} 
+
+.bg-transpink{
+   background-color: #FFDFDF; 
+  } 
+
+.bg-transwhite{
+   background-color: #FFF6F6; 
+  } 
+
+.bg-transblue{
+   background-color: #AEDEFC; 
+  } 
+
+.text-deeptranspink{
+   color: #F875AA; 
+  } 
+
+.text-transpink{
+   color: #FFDFDF; 
+  } 
+
+.text-transwhite{
+   color: #FFF6F6; 
+  } 
+
+.text-transblue{
+   color: #AEDEFC; 
+  }
+
+.text-oleo {
+    font-family: 'Oleo Script', sans-serif;
+    color: white;
+    text-shadow:
+               -3px -3px 0 #F875AA,
+                3px -3px 0 #F875AA,
+               -3px 3px 0 #F875AA,
+                3px 3px 0 #F875AA;
+}
+
+.text-carlito {
+    font-family: 'Carlito', sans-serif;
+}
+
+.text-fjalla {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.shadow-lol{
+  text-shadow:
+  -3px -3px 0 #F875AA,
+  3px -3px 0 #F875AA,
+ -3px 3px 0 #F875AA,
+  3px 3px 0 #F875AA;
+}
